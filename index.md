@@ -1,6 +1,6 @@
 ## Personalized Home Care Services
 
-# Home Care Services in Toronto
+Home Care Services in Toronto
 Our Services Include but not limited to:
 - Personal Care: bathing, dressing, foot care, personal hygiene
 - House Keeping Services
@@ -17,7 +17,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+Home Care Services in Toronto
+Our Services Include but not limited to:
+- Personal Care: bathing, dressing, foot care, personal hygiene
+- House Keeping Services
+- Supervised Medication reminders
+- Care during the stay at a hospital or a retirement home
+- Accompanying services to a shopping mall or to doctors’ offices
+- Meal Planning and preparation
+- Skilled Companionship
+- End of life care
 # Header 1
 ## Header 2
 ### Header 3
