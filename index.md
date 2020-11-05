@@ -1,8 +1,15 @@
 ## Personalized Home Care Services
 
-You can use the [editor on GitHub](https://github.com/dizonrl20/Care.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Home Care Services in Toronto
+Our Services Include but not limited to:
+- Personal Care: bathing, dressing, foot care, personal hygiene
+- House Keeping Services
+- Supervised Medication reminders
+- Care during the stay at a hospital or a retirement home
+- Accompanying services to a shopping mall or to doctors’ offices
+- Meal Planning and preparation
+- Skilled Companionship
+- End of life care
 
 ### Markdown
 
