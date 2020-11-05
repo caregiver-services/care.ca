@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Personalized Home Care Services
 
 You can use the [editor on GitHub](https://github.com/dizonrl20/Care.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
