@@ -20,7 +20,8 @@ Everyone needs a friend, whether it is for accompanying them to the mall or the 
 
 We want to ensure that clients are at ease within his or her own home and has their personal needs met. This means that they can live independently without suffering through the difficulty of not having their personal needs met. Our caregivers are trained in all aspects of care such as laundry, light housekeeping, planning and preparing meals, bathing, medication reminders etc.
 
-## Header 2
+# Contact Us
+## Aimee
 - Phone: 647 832 2031
 - email:
 - facebook: 
