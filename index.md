@@ -23,7 +23,7 @@ We want to ensure that clients are at ease within his or her own home and has th
 # Contact Us
 ## Aimee
 
-- Phone: 647 832 2031
+- My Contact Phone Number: 647 832 2031
 
 <!-- modify this form HTML and place wherever you want your form -->
 
@@ -31,24 +31,23 @@ We want to ensure that clients are at ease within his or her own home and has th
   action="https://formspree.io/f/xrgokwvg"
   method="POST"
 >
-<br>
-  <label>
+
+  <br><label>
     Your email:
-    <input type="text" name="_replyto">
+    <br><input type="text" name="_replyto">
   </label>
-<br>
-  <label>
+
+  <br><label>
     Your message:
-    <textarea name="message"></textarea>
+    <br><textarea name="message"></textarea>
   </label>
-<br>
   <!-- your other form fields go here -->
-<label>
+  <br><label>
     Your phone number:
-    <input type="text" name="phone">
+    <br><input type="text" name="phone">
   </label>
-<br>
-  <button type="submit">Send</button>
+
+  <br><button type="submit">Send</button>
 </form>
 
 Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
