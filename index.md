@@ -40,5 +40,9 @@ We want to ensure that clients are at ease within his or her own home and has th
     <textarea name="message"></textarea>
   </label>
 
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
 Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
