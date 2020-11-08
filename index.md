@@ -31,23 +31,23 @@ We want to ensure that clients are at ease within his or her own home and has th
   action="https://formspree.io/f/xrgokwvg"
   method="POST"
 >
-</br>
+<br>
   <label>
     Your email:
     <input type="text" name="_replyto">
   </label>
-</br>
+<br>
   <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
-</br>
+<br>
   <!-- your other form fields go here -->
 <label>
     Your phone number:
-    <input type="text" name="phone"></input>
+    <input type="text" name="phone">
   </label>
-</br>
+<br>
   <button type="submit">Send</button>
 </form>
 
