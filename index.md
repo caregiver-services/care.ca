@@ -27,5 +27,3 @@ We want to ensure that clients are at ease within his or her own home and has th
 - email:
 - facebook: 
 Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
-
-```markdown
