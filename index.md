@@ -47,7 +47,7 @@ We want to ensure that clients are at ease within his or her own home and has th
     <br><input type="text" name="phone">
   </label>
 
-  <br><button type="submit">Send</button>
+  <br><br><br><button type="submit">Send</button>
 </form>
 
 Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
