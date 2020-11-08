@@ -22,48 +22,8 @@ We want to ensure that clients are at ease within his or her own home and has th
 
 # Contact Us
 ## Aimee
+```markdown
 - Phone: 647 832 2031
 - email:
 - facebook: 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```markdown
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dizonrl20/Care.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-n
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our [facebook page](https://facebook.com) or [contact support](https://github.com/contact) 
