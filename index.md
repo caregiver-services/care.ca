@@ -39,7 +39,7 @@ My Contact Phone Number:    *647 469 1179*   or  *647 832 2031*
 
   <br><label>
     Your message:
-    <br><textarea name="message"></textarea>
+    <br><textarea name="message" rows="5" cols="40"></textarea>
   </label>
   <!-- your other form fields go here -->
   <br><label>
