@@ -26,12 +26,7 @@ We want to ensure that clients are at ease within his or her own home and has th
 My Contact Phone Number:    *647 469 1179*   or  *647 832 2031*
 
 <!-- modify this form HTML and place wherever you want your form -->
-form {
- width: 550px;
- height: 450px;
- margin: auto;
- position: relative;
-}
+
 <form
   action="https://formspree.io/f/xrgokwvg"
   method="POST"
@@ -39,7 +34,7 @@ form {
 
   <br><label>
     Your email:
-    <br><input type="text" name="_replyto">
+    <br><input type="text" name="_replyto" style="font-size: 14pt; height: 16px; width:70px; ">
   </label>
 
   <br><label>
@@ -49,7 +44,7 @@ form {
   <!-- your other form fields go here -->
   <br><label>
     Your phone number:
-    <br><input type="text" name="phone">
+    <br><input type="text" name="phone" style="font-size: 14pt; height: 16px; width:70px; ">
   </label>
 
   <br><br><br><button type="submit">Send</button>
