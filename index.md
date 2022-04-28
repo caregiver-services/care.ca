@@ -29,7 +29,7 @@ My Contact Phone Number:    *647 469 1179*
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
-  action="https://formspree.io/f/xrgokwvg"
+  action="https://formspree.io/f/mqkgykek"
   method="POST"
 >
 
